@@ -46,8 +46,8 @@ Built in **Power BI** on the star-schema data model (`Fact_Sales` + `Dim_Custome
 - Sales by Age Group (donut), Total Sales by City (map), Total Sales by Month/Year (area)
 - Total Sales by Category and Total Quantity by Product (bar charts)
 
-📁 File: [`dashboard/Apex_Dashboard.pbix`](Apex_Dashboard.pbix)
-🖼️ Screenshot: `dashboard/dashboard-screenshot.png` *(add an export from Power BI Desktop)*
+📁 File: [`dashboard/Apex_Dashboard.pbix`](https://github.com/gknkumar98-star/ApexPlanet_Sales_Dashboard/blame/00be55707c3c8fa36de0965c5e5bc3e95cf2b43f/Apex_Dashboard.pbix)
+
 
 ---
 
@@ -55,7 +55,7 @@ Built in **Power BI** on the star-schema data model (`Fact_Sales` + `Dim_Custome
 
 A 7-slide stakeholder deck: dashboard walkthrough → customer segmentation → hypothesis test → recommendation.
 
-📁 File: [`presentation/Final_Presentation.pptx`](presentation/Final_Presentation.pptx)
+📁 File: [`presentation/Final_Presentation.pptx`](https://github.com/gknkumar98-star/Apexplanet_DataST-Stat_Valid/blob/main/ApexPlanet_Final_Presentation_v2.pptx)
 
 ---
 
