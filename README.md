@@ -18,10 +18,10 @@ ApexPlanet's sales data (1,000 orders, 947 customers, ₹139.4M revenue) had a h
 
 | # | Project | What I did | Repository |
 |---|---------|-----------|------------|
-| 1 | **Data Immersion & Wrangling** | Data dictionary, quality audit, cleaning script, analysis-ready dataset | [Task-1 repo]() |
-| 2 | **Exploratory Data Analysis & BI** | Univariate/multivariate EDA, 7 SQL business queries, KPI dashboard mock-up | [Task-2 repo](https://github.com/<your-username>/<task-2-repo>) |
-| 3 | **Deep-Dive Analysis & Interactive Dashboard** | KPI definitions, K-Means customer segmentation, star-schema data model, Power BI dashboard | [Task-3 repo](https://github.com/<your-username>/<task-3-repo>) |
-| 4 | **Data Storytelling & Statistical Validation** | Hypothesis test, data-story report, stakeholder presentation | [Task-4 repo](https://github.com/<your-username>/<task-4-repo>) |
+| 1 | **Data Immersion & Wrangling** | Data dictionary, quality audit, cleaning script, analysis-ready dataset | [Task-1 repo](https://github.com/gknkumar98-star/ApexPanet_Data_Immerssion_and_Wrangling.git) |
+| 2 | **Exploratory Data Analysis & BI** | Univariate/multivariate EDA, 7 SQL business queries, KPI dashboard mock-up | [Task-2 repo](https://github.com/gknkumar98-star/EDA_-_Business_Intelligence.git) |
+| 3 | **Deep-Dive Analysis & Interactive Dashboard** | KPI definitions, K-Means customer segmentation, star-schema data model, Power BI dashboard | [Task-3 repo](https://github.com/gknkumar98-star/ApexPlanet_Sales_Dashboard.git) |
+| 4 | **Data Storytelling & Statistical Validation** | Hypothesis test, data-story report, stakeholder presentation | [Task-4 repo](https://github.com/gknkumar98-star/Apexplanet_DataST-Stat_Valid.git) |
 
 ---
 
@@ -46,7 +46,7 @@ Built in **Power BI** on the star-schema data model (`Fact_Sales` + `Dim_Custome
 - Sales by Age Group (donut), Total Sales by City (map), Total Sales by Month/Year (area)
 - Total Sales by Category and Total Quantity by Product (bar charts)
 
-📁 File: [`dashboard/Apex_Dashboard.pbix`](dashboard/Apex_Dashboard.pbix)
+📁 File: [`dashboard/Apex_Dashboard.pbix`](Apex_Dashboard.pbix)
 🖼️ Screenshot: `dashboard/dashboard-screenshot.png` *(add an export from Power BI Desktop)*
 
 ---
