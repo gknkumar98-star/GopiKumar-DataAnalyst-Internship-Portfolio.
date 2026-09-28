@@ -62,7 +62,7 @@ A 7-slide stakeholder deck: dashboard walkthrough → customer segmentation → 
 ## Repository Structure
 
 ```
-[YourName]-DataAnalyst-Internship-Portfolio/
+Gopi Kumar-DataAnalyst-Internship-Portfolio/
 ├── README.md
 ├── data/
 │   ├── cleaned_dataset.csv
@@ -124,10 +124,5 @@ Run the notebooks in order (01 → 04). Open `dashboard/Apex_Dashboard.pbix` in 
 
 ---
 
-## Connect
-
-- 💼 LinkedIn: [your-profile-link](#)
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [@your-username](https://github.com/<your-username>)
 
 *Completed as part of the ApexPlanet Data Analytics Internship.*
